@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23146" started-at="2018-02-26T10:17:38Z" finished-at="2018-02-26T10:18:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23146" started-at="2018-02-26T10:17:38Z" finished-at="2018-02-26T10:18:01Z">
+      <class name="guru99.DrapandDrop">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:guru99.DrapandDrop@5fe5c6f]" name="setUp" is-config="true" duration-ms="17371" started-at="2018-02-26T15:47:38Z" finished-at="2018-02-26T15:47:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="drapdrop()[pri:0, instance:guru99.DrapandDrop@5fe5c6f]" name="drapdrop" duration-ms="4504" started-at="2018-02-26T15:47:55Z" finished-at="2018-02-26T15:48:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drapdrop -->
+        <test-method status="PASS" signature="End()[pri:0, instance:guru99.DrapandDrop@5fe5c6f]" name="End" is-config="true" duration-ms="1255" started-at="2018-02-26T15:48:00Z" finished-at="2018-02-26T15:48:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+      </class> <!-- guru99.DrapandDrop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
